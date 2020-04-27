@@ -1,0 +1,7 @@
+version: "3"
+services:
+  goimage:
+    image: firstapp
+
+    ports:
+      - '8512:8512'
